@@ -1,0 +1,4 @@
+baseURL = 'https://kikentai.dev'
+languageCode = 'en-us'
+title = "Ki Ken Tai - Darius Elphick's Personal Blog"
+theme = 'ananke'
