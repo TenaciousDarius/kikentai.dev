@@ -7,7 +7,7 @@ date = 2024-04-14T18:16:38+12:00
 
 Hello, my name's Darius and welcome to my personal blog! There ain't much here at the moment, and that's because I've just started building this up this evening.
 
-I've been inspired by a talk given by a friend and colleague, Natalia Panferova, this weekend to start a blog. 
+I've been inspired by a talk given by a friend and colleague, Natalia Panferova, to start a blog. 
 
 I have named my blog Ki Ken Tai. Ki Ken Tai Ichi is a concept in Kendo about the correct way to execute an attack.  
 
